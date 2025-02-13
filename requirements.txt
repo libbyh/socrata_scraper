@@ -1,0 +1,4 @@
+requests~=2.32.3
+argparse~=1.4.0
+logging~=0.4.9.6
+pathlib~=1.0.1
